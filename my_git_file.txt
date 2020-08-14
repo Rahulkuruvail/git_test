@@ -1,7 +1,10 @@
 this is my git testing file
 <<<<<<< HEAD
+<<<<<<< HEAD
 second commit
 third commit
 
+=======
+>>>>>>> parent of d42fc53... my second commit
 =======
 >>>>>>> parent of d42fc53... my second commit
